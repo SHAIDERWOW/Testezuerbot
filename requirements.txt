@@ -41,7 +41,7 @@ pafy==0.5.4
 pip==9.0.1
 post==0.0.26
 prompt-toolkit==1.0.13	
-psutil==5.4.3
+psutil==5.6.6
 public==0.0.65
 pycparser==2.18
 pymacaroons-pynacl==0.9.3
