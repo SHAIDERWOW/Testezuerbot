@@ -2,7 +2,7 @@ Cogs==0.4.1
 Pillow==5.1.0
 PyNaCl==1.2.1
 PyYAML==3.12
-Pygments==2.2.0
+Pygments==2.7.4
 aiohttp==1.0.5
 async==0.6.2
 async-connect.py==0.2.1
