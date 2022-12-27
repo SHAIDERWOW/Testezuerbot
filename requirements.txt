@@ -50,7 +50,7 @@ query-string==0.0.28
 request==0.0.26
 requests==2.18.4
 selenium==3.4.3
-setuptools==38.5.2
+setuptools==65.5.1
 six==1.11.0
 spotipy==2.4.4
 urllib3==1.22
